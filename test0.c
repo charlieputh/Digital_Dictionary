@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS                         		 //just in case that the compiler will make errors when it comes to strcpy
+#define _CRT_SECURE_NO_WARNINGS                                          //just in case that the compiler will make errors when it comes to strcpy
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
